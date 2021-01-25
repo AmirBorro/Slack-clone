@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AmirBorro/Slack-clone/static/css/main.b7b44262.chunk.css",
+    "main.js": "/AmirBorro/Slack-clone/static/js/main.c1bed748.chunk.js",
+    "main.js.map": "/AmirBorro/Slack-clone/static/js/main.c1bed748.chunk.js.map",
+    "runtime-main.js": "/AmirBorro/Slack-clone/static/js/runtime-main.4c2e54ec.js",
+    "runtime-main.js.map": "/AmirBorro/Slack-clone/static/js/runtime-main.4c2e54ec.js.map",
+    "static/js/2.ccdcd231.chunk.js": "/AmirBorro/Slack-clone/static/js/2.ccdcd231.chunk.js",
+    "static/js/2.ccdcd231.chunk.js.map": "/AmirBorro/Slack-clone/static/js/2.ccdcd231.chunk.js.map",
+    "static/js/3.8488aa84.chunk.js": "/AmirBorro/Slack-clone/static/js/3.8488aa84.chunk.js",
+    "static/js/3.8488aa84.chunk.js.map": "/AmirBorro/Slack-clone/static/js/3.8488aa84.chunk.js.map",
+    "index.html": "/AmirBorro/Slack-clone/index.html",
+    "static/css/main.b7b44262.chunk.css.map": "/AmirBorro/Slack-clone/static/css/main.b7b44262.chunk.css.map",
+    "static/js/2.ccdcd231.chunk.js.LICENSE.txt": "/AmirBorro/Slack-clone/static/js/2.ccdcd231.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c2e54ec.js",
+    "static/js/2.ccdcd231.chunk.js",
+    "static/css/main.b7b44262.chunk.css",
+    "static/js/main.c1bed748.chunk.js"
+  ]
+}
